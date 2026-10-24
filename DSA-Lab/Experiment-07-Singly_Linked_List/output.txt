@@ -1,0 +1,96 @@
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 3
+Enter value: 10
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 3
+Enter value: 20
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 3
+Enter value: 30
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 2
+Enter value and position (0-indexed): 15 1
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 7
+Linked List: 10 -> 15 -> 20 -> 30 -> NULL
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 5
+Enter position (0-indexed): 1
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 7
+Linked List: 10 -> 20 -> 30 -> NULL
+
+--- Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at Position
+3. Insert at End
+4. Delete at Beginning
+5. Delete at Position
+6. Delete at End
+7. Traverse
+8. Exit
+Enter your choice: 8
+Exiting program.

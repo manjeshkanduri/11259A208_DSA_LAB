@@ -1,0 +1,75 @@
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 1
+Enter value to insert: 40
+40 inserted into priority queue.
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 1
+Enter value to insert: 10
+10 inserted into priority queue.
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 1
+Enter value to insert: 25
+25 inserted into priority queue.
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 4
+Priority Queue elements: 40 10 25 
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 2
+Minimum element (highest priority): 10
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 3
+Deleted min element: 10
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 4
+Priority Queue elements: 40 25 
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5. Exit
+Enter your choice: 5
+Exiting program.

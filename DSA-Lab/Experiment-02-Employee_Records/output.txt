@@ -1,0 +1,41 @@
+Enter number of employees: 3
+
+Enter details for employee 1
+ID: 101
+Name: Arun
+Salary: 45000
+
+Enter details for employee 2
+ID: 102
+Name: Bala
+Salary: 52000
+
+Enter details for employee 3
+ID: 103
+Name: Chitra
+Salary: 48000
+
+--- Employee Record Menu ---
+1. Display all employees
+2. Search employee by ID
+3. Exit
+Enter your choice: 1
+
+ID     Name                 Salary    
+101    Arun                 45000.00  
+102    Bala                 52000.00  
+103    Chitra               48000.00  
+
+--- Employee Record Menu ---
+1. Display all employees
+2. Search employee by ID
+3. Exit
+Enter your choice: 2
+Enter ID to search: 102
+Found: ID=102 Name=Bala Salary=52000.00
+
+--- Employee Record Menu ---
+1. Display all employees
+2. Search employee by ID
+3. Exit
+Enter your choice: 3
